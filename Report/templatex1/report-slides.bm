@@ -1,0 +1,24 @@
+\pdbookmark{sec.1}{}{3}{Problem Description}
+\pdbookmark{sec.1.slide}{sec.1}{4}{Store Sales Prediction}
+\pdbookmark{sec.2}{}{5}{Data Clean}
+\pdbookmark{sec.2.slide}{sec.2}{7}{ Data Describe}
+\pdbookmark{sec.2.slide}{sec.2}{9}{Daily sales of 2015-2018}
+\pdbookmark{sec.2.slide}{sec.2}{10}{Daily sales of 2015-2018}
+\pdbookmark{sec.2.slide}{sec.2}{12}{Monthly sales of 2015-2018}
+\pdbookmark{sec.2.slide}{sec.2}{13}{Monthly sales of 2015-2018}
+\pdbookmark{sec.2.slide}{sec.2}{14}{Monthly sales of 2015-2018}
+\pdbookmark{sec.2.slide}{sec.2}{16}{Sales per day of the week}
+\pdbookmark{sec.3}{}{18}{Method analysis}
+\pdbookmark{sec.4}{}{20}{Data processing}
+\pdbookmark{sec.5}{}{23}{Model Training}
+\pdbookmark{sec.6}{}{27}{Related Work and Challenges}
+\pdbookmark{sec.6.slide}{sec.6}{28}{Related Work - Outlying Aspects Mining}
+\pdbookmark{sec.6.slide}{sec.6}{31}{Challenges (1)}
+\pdbookmark{sec.7}{}{34}{GOAM Algorithm}
+\pdbookmark{sec.7.slide}{sec.7}{36}{Step One - Group Feature Extraction}
+\pdbookmark{sec.7.slide}{sec.7}{37}{Step Two - Outlying Degree Scoring}
+\pdbookmark{sec.7.slide}{sec.7}{39}{Step Three - Outlying Aspects Identification}
+\pdbookmark{sec.8}{}{44}{Evaluation Results}
+\pdbookmark{sec.8.slide}{sec.8}{46}{Synthetic Dataset}
+\pdbookmark{sec.8.slide}{sec.8}{48}{NBA Dataset}
+\pdbookmark{sec.9}{}{52}{Conclusion}
