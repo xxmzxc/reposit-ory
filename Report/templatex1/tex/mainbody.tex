@@ -39,163 +39,79 @@ you don't need to cover anything more in an introduction.}
 %\todo{The importance of the area}
 %\blindtext
 \todo{Motivation}
-At a high level, 
-what is the problem area you are working in and why is it important? 
-It is important to set the larger context here. 
-Why is the problem of interest and importance to the larger community?
+Time series (or dynamic series) refers to a series of numbers that are arranged according to the time sequence of occurrence of the same statistical index. The main purpose of time series analysis is to predict the future based on existing historical data. Most of the economic data are given in the form of time series. Depending on the observation time, the time in the time series can be year, quarter, month or any other time form.
 
 
 %\todo{The problems faced by most current methods}
 %\blindtext
 \todo{What is the specific problem considered in this paper?}
-This paragraph narrows down the topic area of the paper. 
-In the first paragraph you have established general context and importance. 
-Here you establish specific context and background.
+Time series is a group of random variables sorted according to time. It is usually the result of observation of a potential process at a given sampling rate in an equal interval of time. Time series data essentially reflects the trend of one or some random variables changing with time. The core of time series prediction method is to mine this rule from data and use it to estimate future data. [1]
+
+Components: long-term trend, seasonal change, cyclical change, irregular change.
 
 %\todo{What can be addressed by existing methods; Why those problems are challenges to existing methods?}
 %\blindtext
-\todo{Contribution}
-"In this paper, we show that ...". 
-This is the key paragraph in the intro - you summarize, 
-in one paragraph, 
-what are the main contributions of your paper given the context 
-you have established in paragraphs 1 and 2. 
-What is the general approach taken? 
-Why are the specific results significant? 
-This paragraph must be really good. 
 
-You should think about how to structure these one or 
-two paragraph summaries of what your paper is all about. 
-If there are two or three main results, 
-then you might consider itemizing them with bullets or in test. 
 \begin{itemize}
-	\item e.g., First ...
-	\item e.g., Second ...
-	\item e.g., Third ...
+	\item e.g., First Long-term trend (T) is the general trend of change formed by some fundamental factors in a long period of time.
+	\item e.g., Second Seasonal variation (S) is a regular periodic change that occurs with the change of seasons in a year.
+	\item e.g., Third Cyclic variation (C) is a regular variation of wave undulation pattern with a period of several years.
+	\item e.g., Fourth Irregular change (I) is a kind of irregular change, including strict random change and irregular sudden change with great influence. [2]
 \end{itemize}
-If the results fall broadly into two categories, 
-you can bring out that distinction here. 
-For example, "Our results are both theoretical and applied in nature. 
-(two sentences follow, one each on theory and application)"
+	Time series prediction is mainly based on the principle of continuity. The principle of continuity means that the development of objective things has regular continuity, and the development of things is carried out according to its inherent laws. Under certain conditions, the basic development trend of things will continue in the future as long as the conditions on which the law works do not change qualitatively.
+\\
+	Time series prediction is to use statistical techniques and methods to find out the evolution mode from the time series of prediction indicators, establish mathematical models, and make quantitative estimation of the future development trend of prediction indicators.
 
 %\todo{What provides the motivation of this work? What are the research issues? What is the rationale of this work? }
 %\blindtext
-\todo{At a high level what are the differences in what you are doing, and what others have done? }
-Keep this at a high level, 
-you can refer to a future section where specific details and differences will be given. 
-But it is important for the reader to know at a high level, 
-what is new about this work compared to other work in the area.
-
-%\todo{What we have done and what are the contributions.}
-%\blindtext
-\todo{A roadmap for the rest of the paper}
-"The remainder of this paper is structured as follows..." 
-Give the reader a roadmap for the rest of the paper. 
-Avoid redundant phrasing, 
-"In Section 2, In section 3, ... In Section 4, ... " etc.
-
-\gangli{A few general tips:
-Don't spend a lot of time into the introduction 
-telling the reader about what you don't do in the paper. 
-Be clear about what you do do.
-Does each paragraph have a theme sentence that sets the stage for the entire paragraph? Are the sentences and topics in the paragraph all related to each other?}
-
-\gangli{Does each paragraph have a theme 
-sentence that sets the stage for the entire paragraph? 
-Are the sentences and topics in the paragraph all related to each other?}
-
-\gangli{Do all of your tenses match up in a paragraph?}
-
-Test citation~\cite{BL12J01}. 
-\begin{JournalOnly}
-and~\citep{BJL11J01} or~\citet{BJL11J01}.
-\end{JournalOnly}
-
-This is for~\cref{tbl:overall-experiments}, 
-\todo[fancyline]{Testing.}
-and this is for~\cref{sec-conclusions}.
-\todo[noline]{A note with no line back to the text.}%
-\gangli{This is comment from Gang.}
-\qwu{Response from QW}
-
-Number:
-\num{123}.
-\numlist{10;30;50;70},
-\numrange{10}{30},
-\SIlist{10;30;45}{\metre},
-and
-\SI{10}{\percent}
-
-\missingfigure[figcolor=white]{Testing figcolor}
 
 
-\begin{ConferenceOnly}
-We have \SI{10}{\hertz},
-\si{\kilogram\metre\per\second},
-the range: \SIrange{10}{100}{\hertz}.
-$\nicefrac[]{1}{2}$.
 
-\missingfigure{Make a sketch of the structure of a trebuchet.}
+\section{Topic requirements} \label{sec-preliminaries}
 
-\end{ConferenceOnly}
-
-
-For~\cref{eq:test},
-as shown below:
-
-\begin{equation}\label{eq:test}
-a = b \times \sqrt{ab}
-\end{equation}
-
-\blindmathpaper
-
-\section{Preliminaries} \label{sec-preliminaries}
-
-\blindtext
-
-\gliMarker  %TODO: GLi Here
+The topic gives a training set and a data set.Data set: the title gives a 26298 line × 6-column training set, a 6570 row × 5-column test set and one
+Submit samples. The training set includes sales data of each date-country-store-commodity combination. date
+From 2015 to 2018, there are three countries, two stores and three commodities. Test set compared with training set
+Lack of sales volume. The training set header is as follows:
+\\
+\begin{tabular}{ c | c | c | c | c }
+	\toprule`
+	date    &  country    & store & product & num sold      \\
+	\midrule
+	2015/1/1 &  Finland   &  KaggleMart   & Kaggle Mug & 329   \\
+	
+	2015/1/1 &  Finland   &  KaggleMart   & Kaggle Hat & 520   \\
+	
+	2015/1/1 &  Finland   &  KaggleMart   & Kaggle Sticker & 146   \\
+	\bottomrule
+\end{tabular}
 
 
-\section{Method} \label{sec-method}
 
-\blindtext
-\blindlist{itemize}[3]
-\blinditemize
-\blindenumerate
 
-\blindmathtrue
-\blindmathfalse
-\blinddescription
+\section{Analysis and Method} \label{sec-method}
+
+Analysis:Three countries, two stores, three commodities can form 18 combinations. Charting these 18 combinations shows that the sales volume of each combination has a similar fluctuation in the year, indicating that the sales volume is seasonal in each month. And the sales volume on weekends is higher than that on weekdays, which means that the sales volume in a week is also seasonal. Generally speaking, the sales volume of each combination is increasing year by year, but the sales volume in Norway is abnormal. The sales volume in Norway in 2015 is higher than that in 2016, indicating that the sales volume is also related to other factors.
+\\
+Method:Because the structure of the data set is not very complex and there are few
+influencing factors, the linear regression model is selected for this model, and
+the method of combining time series with linear regression model is used.
+Add some elements of time series, such as Fourier characteristics, seasonal
+indicators, and real world GDP data.
 
 \qwuMarker %TODO: QWu Here
 
-\section{Experiment and Analysis} \label{sec-experiment}
+\section{Experiment} \label{sec-experiment}
+After the above processing, there are 26 columns of data in total. We passed the processed data set into the linear regression model in sk-learn for training, and finally obtained the model we need. Then use the model to predict and find that there is a huge deviation between the predicted loss value at the end of each year and at the beginning of each year, which means that the sales volume will also be affected by the new year, but I don't know how to improve it for the time being. I hope that the model can be improved when there is time in the future. Finally, submit the forecast results to the official website of Kaggle, ranking 498 with a score of 6.48662.
 
-
-\begin{table}  \centering
-  \caption{Precision Comparison on Event Detection Methods}
-  \label{tbl:overall-experiments}
-  \begin{tabular}{cccc}
-\toprule
-    % after \\: \hline or \cline{col1-col2} \cline{col3-col4} ...
-    & OR Event Detection & AC Event Detection & TC Event Detection \\
-\midrule
-    precision & 0.83 & 0.69 & 0.46 \\
-    recall & 0.68 & 0.48 & 0.36 \\
-    F-score & 0.747 & 0.57 & 0.4 \\
-\bottomrule
-\end{tabular}
-\end{table}
 
 
 \section{Conclusions} \label{sec-conclusions}
-
-\blindtext
-
-\section*{Acknowledgement}
-
-\lipsum[1]
+This is a good time series topic, which combines not only several important elements in the time series, but also factors in the real world. Through this topic, I improved my ability of data analysis. Unfortunately, the score of the final result is not high. The main reason is that the consideration is not comprehensive enough. I hope that I can make progress next time when I do similar questions.
 
 
-The authors would like to thank \ldots
+
+
+
+
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=latex 2023.1.4)  28 JAN 2023 19:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=latex 2023.1.4)  29 JAN 2023 11:33
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -1395,45 +1395,7 @@ LaTeX Warning: Marginpar on page 2 moved.
 LaTeX Warning: Marginpar on page 2 moved.
 
 
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-Including 'JournalOnly' comment.
-\openout3 = `comment.cut'.
-
- Straight input of comment.cut. (./comment.cut)
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-
-LaTeX Warning: Marginpar on page 2 moved.
-
-Including 'ConferenceOnly' comment.
-\openout3 = `comment.cut'.
-
- Straight input of comment.cut.
-(./comment.cut)
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 5403) has occurred while \output is active []
 
 File: ./graphics/logos/tulip-logo.eps Graphic file (type eps)
 
@@ -1443,7 +1405,7 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
-[2]
+[2])
 File: ./graphics/logos/tulip-logo.eps Graphic file (type eps)
  <./graphics/logos/tulip-logo.eps>
 
@@ -1451,39 +1413,8 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
-[3]
-File: ./graphics/logos/tulip-logo.eps Graphic file (type eps)
- <./graphics/logos/tulip-logo.eps>
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.79996pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.79996pt}.
-
-[4])
-File: ./graphics/logos/tulip-logo.eps Graphic file (type eps)
- <./graphics/logos/tulip-logo.eps>
-
-Package fancyhdr Warning: \footskip is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.79996pt, for example:
-(fancyhdr)                \setlength{\footskip}{14.79996pt}.
-
-[5] (./report.bbl) (./report.tdo
+[3] (./report.bbl) (./report.tdo
 Overfull \hbox (1544.74683pt too wide) in paragraph at lines 2--2
- [][][] [] [][]  
- []
-
-
-Overfull \hbox (76.0785pt too wide) in paragraph at lines 6--6
- [][][] [] [][]  
- []
-
-
-Overfull \hbox (1010.69049pt too wide) in paragraph at lines 8--8
- [][][] [] [][]  
- []
-
-
-Overfull \hbox (350.93968pt too wide) in paragraph at lines 9--9
  [][][] [] [][]  
  []
 
@@ -1498,19 +1429,19 @@ Package fancyhdr Warning: \footskip is too small (12.0pt):
 (fancyhdr)                Make it at least 14.79996pt, for example:
 (fancyhdr)                \setlength{\footskip}{14.79996pt}.
 
-[6]
+[4]
 No complaints by nag.
 (./report.aux)
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: D59CCAC13BF91EB59662DE691E29DCDE;967.
+(rerunfilecheck)             Checksum: FA70D7E206FE97A38E17053B862558E4;873.
  ) 
 Here is how much of TeX's memory you used:
- 35940 strings out of 480902
- 696723 string characters out of 5906251
- 1374196 words of memory out of 5000000
- 52349 multiletter control sequences out of 15000+600000
- 412067 words of font info for 61 fonts, out of 8000000 for 9000
+ 35789 strings out of 480902
+ 693537 string characters out of 5906251
+ 1191464 words of memory out of 5000000
+ 52201 multiletter control sequences out of 15000+600000
+ 412402 words of font info for 62 fonts, out of 8000000 for 9000
  197 hyphenation exceptions out of 8191
- 133i,13n,134p,639b,976s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 133i,12n,134p,705b,975s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report.dvi (6 pages, 116876 bytes).
+Output written on report.dvi (4 pages, 56696 bytes).
