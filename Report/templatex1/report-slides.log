@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=latex 2023.1.4)  30 JAN 2023 15:41
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021/W32TeX) (preloaded format=latex 2023.1.4)  30 JAN 2023 16:08
 entering extended mode
  restricted \write18 enabled.
  Source specials enabled.
@@ -2304,240 +2304,240 @@ Overfull \hbox (23.34065pt too wide) in paragraph at lines 826--826
 
 [26] [27] [28] [29] [30]
 Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
-ine 1064.
+ine 1052.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1064.
+(caption)                particular \caption on input line 1052.
 See the caption package documentation for explanation.
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1064.
+(caption)                particular \caption on input line 1052.
 See the caption package documentation for explanation.
 
 [31] [32] [33] [34] [35]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1215.
+(caption)                particular \caption on input line 1203.
 See the caption package documentation for explanation.
 
 [36]
-Overfull \hbox (31.3592pt too wide) in paragraph at lines 1279--1279
+Overfull \hbox (31.3592pt too wide) in paragraph at lines 1267--1267
 [][]\T1/fnc/m/n/14.4 14ptTest.  
  []
 
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
-(Font)              scaled to size 7.06795pt on input line 1279.
+(Font)              scaled to size 7.06795pt on input line 1267.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 1279.
+(Font)              scaled to size 6.99199pt on input line 1267.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 1279.
+(Font)              scaled to size 5.51999pt on input line 1267.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 1279.
+(Font)              scaled to size 6.99199pt on input line 1267.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 1279.
+(Font)              scaled to size 5.51999pt on input line 1267.
 Missing character: There is no ^^L in font fourier-mex!
 
-Overfull \hbox (31.3592pt too wide) in paragraph at lines 1279--1279
+Overfull \hbox (31.3592pt too wide) in paragraph at lines 1267--1267
 [][]\T1/fnc/m/n/14.4 14ptTest.  
  []
 
 
-Overfull \hbox (31.3592pt too wide) in paragraph at lines 1279--1279
+Overfull \hbox (31.3592pt too wide) in paragraph at lines 1267--1267
 [][]\T1/fnc/m/n/14.4 14ptTest.  
  []
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1279.
+(caption)                particular \caption on input line 1267.
 See the caption package documentation for explanation.
 
 Missing character: There is no ^^L in font fourier-mex!
 [37]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1324.
+(caption)                particular \caption on input line 1312.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (21.00186pt too wide) in paragraph at lines 1324--1324
+Overfull \hbox (21.00186pt too wide) in paragraph at lines 1312--1312
 [][] 
  []
 
 [38] [39] [40] [41]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1481.
+(caption)                particular \caption on input line 1469.
 See the caption package documentation for explanation.
 
 [42]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1548.
+(caption)                particular \caption on input line 1536.
 See the caption package documentation for explanation.
 
 [43] [44] [45]
 LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
-(Font)              scaled to size 8.36993pt on input line 1636.
+(Font)              scaled to size 8.36993pt on input line 1624.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 1636.
+(Font)              scaled to size 15.89755pt on input line 1624.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 1636.
+(Font)              scaled to size 11.03998pt on input line 1624.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 1636.
+(Font)              scaled to size 8.27998pt on input line 1624.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 15.89755pt on input line 1636.
+(Font)              scaled to size 15.89755pt on input line 1624.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 11.03998pt on input line 1636.
+(Font)              scaled to size 11.03998pt on input line 1624.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 8.27998pt on input line 1636.
+(Font)              scaled to size 8.27998pt on input line 1624.
 Missing character: There is no ^^L in font fourier-mex!
  [46]
 Missing character: There is no ^^L in font fourier-mex!
 
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1690.
+(caption)                particular \caption on input line 1678.
 See the caption package documentation for explanation.
 
 LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
-(Font)              scaled to size 9.29993pt on input line 1690.
+(Font)              scaled to size 9.29993pt on input line 1678.
 LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
-(Font)              scaled to size 7.43994pt on input line 1690.
+(Font)              scaled to size 7.43994pt on input line 1678.
 [47]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1735.
+(caption)                particular \caption on input line 1723.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (4.66704pt too wide) in paragraph at lines 1735--1735
+Overfull \hbox (4.66704pt too wide) in paragraph at lines 1723--1723
  [][] 
  []
 
 [48]
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 1775.
+(enumitem)                sense, on input line 1763.
 
 LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
-(Font)              scaled to size 13.39188pt on input line 1775.
+(Font)              scaled to size 13.39188pt on input line 1763.
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-775.
+763.
 (d:/texlive/2021/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 ) [49]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1815.
+(caption)                particular \caption on input line 1803.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (3.4126pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (3.4126pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 FGA| 
  []
 
 
-Overfull \hbox (4.8991pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (4.8991pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 FG%| 
  []
 
 
-Overfull \hbox (10.85841pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (10.85841pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 3PT%| 
  []
 
 
-Overfull \hbox (1.68515pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (1.68515pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 FTA| 
  []
 
 
-Overfull \hbox (3.41261pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (3.41261pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 FT%| 
  []
 
 
-Overfull \hbox (7.89871pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (7.89871pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 14.07| 
  []
 
 
-Overfull \hbox (7.89871pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (7.89871pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 10.59| 
  []
 
 
-Overfull \hbox (7.89871pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (7.89871pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 10.93| 
  []
 
 
-Overfull \hbox (7.89871pt too wide) in paragraph at lines 1815--1815
+Overfull \hbox (7.89871pt too wide) in paragraph at lines 1803--1803
 []|\T1/fnc/m/n/14.4 10.39| 
  []
 
 [50]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1865.
+(caption)                particular \caption on input line 1853.
 See the caption package documentation for explanation.
 
 
-Overfull \hbox (7.85661pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (7.85661pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (0.35,0.45]| 
  []
 
 
-Overfull \hbox (6.10127pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (6.10127pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (0.3,0.35]| 
  []
 
 
-Overfull \hbox (1.67804pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (1.67804pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (3.5,$+\FMS/fncm/m/n/14.4 1$\T1/fnc/m/n/14.4 ]| 
  []
 
 
-Overfull \hbox (1.67804pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (1.67804pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (2.5,$+\FMS/fncm/m/n/14.4 1$\T1/fnc/m/n/14.4 ]| 
  []
 
 
-Overfull \hbox (6.10127pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (6.10127pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (0.25,0.5]| 
  []
 
 
-Overfull \hbox (7.85661pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (7.85661pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (0.65,0.75]| 
  []
 
 
-Overfull \hbox (6.10127pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (6.10127pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (0.6,0.75]| 
  []
 
 
-Overfull \hbox (1.67804pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (1.67804pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (1.7,$+\FMS/fncm/m/n/14.4 1$\T1/fnc/m/n/14.4 ]| 
  []
 
 
-Overfull \hbox (9.12384pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (9.12384pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (0.75,$+\FMS/fncm/m/n/14.4 1$\T1/fnc/m/n/14.4 ]| 
  []
 
 
-Overfull \hbox (1.67804pt too wide) in paragraph at lines 1865--1865
+Overfull \hbox (1.67804pt too wide) in paragraph at lines 1853--1853
 []|\T1/fnc/m/n/14.4 (0.7,$+\FMS/fncm/m/n/14.4 1$\T1/fnc/m/n/14.4 ]| 
  []
 
 [51]
 
 Package caption Warning: The option `hypcap=true' will be ignored for this
-(caption)                particular \caption on input line 1902.
+(caption)                particular \caption on input line 1890.
 See the caption package documentation for explanation.
 
 [52] [53] [54]
@@ -2632,21 +2632,21 @@ File: ./graphics//gif//question//q_30.eps Graphic file (type eps)
 <./graphics//gif//question//q_30.eps> <a0,fr29> [55]
 
 Package enumitem Warning: Negative labelwidth. This does not make much
-(enumitem)                sense, on input line 1988.
+(enumitem)                sense, on input line 1976.
 
 LaTeX Font Info:    Trying to load font information for U+fontawesometwo on inp
-ut line 1988.
+ut line 1976.
 (d:/texlive/2021/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
 
 LaTeX Font Warning: Font shape `U/fontawesometwo/b/n' undefined
-(Font)              using `U/fontawesometwo/m/n' instead on input line 1988.
+(Font)              using `U/fontawesometwo/m/n' instead on input line 1976.
 
 LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
-(Font)              scaled to size 13.39188pt on input line 1988.
+(Font)              scaled to size 13.39188pt on input line 1976.
 LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
-(Font)              scaled to size 9.29993pt on input line 1988.
+(Font)              scaled to size 9.29993pt on input line 1976.
 [56] (./report-slides.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -2664,4 +2664,4 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  104i,15n,117p,2378b,1069s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on report-slides.dvi (56 pages, 1314016 bytes).
+Output written on report-slides.dvi (56 pages, 1313300 bytes).
